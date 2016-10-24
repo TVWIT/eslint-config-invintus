@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-invintus",
+  "description": "Invintus eslint config for projects using jsx",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvwit/eslint-config-invintus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvwit/eslint-config-invintus/issues"
+  },
+  "homepage": "https://github.com/tvwit/eslint-config-invintus#readme"
+}
