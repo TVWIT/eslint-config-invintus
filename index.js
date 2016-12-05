@@ -65,5 +65,6 @@ module.exports = {
         "space-before-function-paren": [2, "always"],                // require a space after function names (off by default)
         "key-spacing": [2, {"mode": "strict"}],                      // enforces spacing between keys and values in object literal properties
         "semi-spacing": ["error", {"before": false, "after": true}], // disallow space before semicolon
+        "no-undef": [2]
     }
 };
