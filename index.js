@@ -20,7 +20,7 @@ module.exports = {
         }
     },
     "rules": {
-        "react/jsx-uses-vars": [2]     // linting for jsx used vars stuff
+        "react/jsx-uses-vars": [2],     // linting for jsx used vars stuff
         "comma-dangle": 2,             // disallow trailing commas in object literals
         "no-cond-assign": 2,           // disallow assignment in conditional expressions
         "no-constant-condition": 2,    // disallow use of constant expressions in conditions
