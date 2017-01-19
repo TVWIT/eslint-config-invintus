@@ -61,7 +61,7 @@ module.exports = {
         "comma-style": 2,              // enforce one true comma style (off by default)
         "new-parens": 2,               // disallow the omission of parentheses when invoking a constructor with no arguments
         "no-array-constructor": 2,     // disallow use of the Array constructor
-        "no-inline-comments": 2,       // disallow comments inline after code (off by default)
+        // "no-inline-comments": 2,       // disallow comments inline after code (off by default)
         "no-lonely-if": 1,             // disallow if as the only statement in an else block (off by default)
         "no-mixed-spaces-and-tabs": 2, // disallow mixed spaces and tabs for indentation
         "no-new-object": 2,            // disallow use of the Object constructor
