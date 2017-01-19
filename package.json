@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tvwit/eslint-config-invintus/issues"
   },
-  "homepage": "https://github.com/tvwit/eslint-config-invintus#readme"
+  "homepage": "https://github.com/tvwit/eslint-config-invintus#readme",
+  "dependencies": {
+    "eslint-plugin-react": "^6.9.0"
+  }
 }
