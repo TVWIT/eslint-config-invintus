@@ -50,7 +50,7 @@ module.exports = {
         "wrap-iife": [2, "inside"],    // require immediate function invocation to be wrapped in parentheses (off by default)
         "no-delete-var": 2,            // disallow deletion of variables
         "no-unused-vars": [2, {"args": "none"}],           // disallow declaration of variables that are not used in the code
-        "no-use-before-define": 2,     // disallow use of variables before they are defined
+        // "no-use-before-define": 2,     // disallow use of variables before they are defined
         "brace-style": 2,              // enforce one true brace style (off by default)
         "camelcase": 2,                // require camel case names
         "comma-style": 2,              // enforce one true comma style (off by default)
