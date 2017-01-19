@@ -8,9 +8,9 @@ module.exports = {
         "react"
     ],
     "globals": {
-        "document": true,
+        "document": false,
         "navigator": false,
-        "window": true
+        "window": false
     },
     "parserOptions": {
         "ecmaVersion": 5,
