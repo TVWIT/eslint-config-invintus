@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-invintus",
   "description": "Invintus eslint config for projects using jsx",
-  "version": "5.0.1",
+  "version": "6.0.0",
   "main": "index.js",
   "scripts": {
     "postversion": "git push && git push --tags && npm publish",
