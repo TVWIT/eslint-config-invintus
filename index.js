@@ -75,7 +75,6 @@ module.exports = {
         "no-ex-assign": 2,             // disallow assigning to the exception in a catch block
 
         "indent": [2, 4, {"SwitchCase": 1}],                         // indent 4 spaces, including after case statements
-        "consistent-this": [2, "self"],                              // enforces consistent naming when capturing the current execution context (off by default)
         "space-before-function-paren": [2, "always"],                // require a space after function names (off by default)
         "key-spacing": [2, {"mode": "strict"}],                      // enforces spacing between keys and values in object literal properties
         "semi-spacing": ["error", {"before": false, "after": true}], // disallow space before semicolon
